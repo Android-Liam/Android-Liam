@@ -36,9 +36,13 @@ Platforms & Languages
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 
@@ -46,7 +50,7 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/Electron-47848f?style=flat-square&logo=Electron&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
 
 <br/><br/>
 
