@@ -16,7 +16,7 @@ I will continue to study and develop to become a good Android developer!
 
 Have a happy day everyone!
 
-<br/><br/><br/>
+<br/><br/>
 
  <div align=center>
   
@@ -46,7 +46,7 @@ Platforms & Languages
 
 <br/><br/>
 
-Target language for learning
+:books: Target language for learning :books:
 
 <br/>
 
