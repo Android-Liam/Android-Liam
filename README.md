@@ -12,7 +12,7 @@ I'm a beginner who has embarked on a journey to become an Android developer.
 <br/><br/>
 I know I have a long way to go, but my goal is to become a senior developer capable of developing for both Android and iOS platforms.
 <br/><br/>
-Have a happy day everyone! :raised_hands:
+:raised_hands: Have a happy day everyone! :raised_hands:
 <br/><br/>
 
 <br/>
