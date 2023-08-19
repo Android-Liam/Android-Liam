@@ -4,7 +4,7 @@
 
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 :wave: Welcome everyone! :wave:
 
