@@ -50,7 +50,8 @@ Target language for learning
 
 <br/>
 
-d
+<img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/>
+
 
 
 
