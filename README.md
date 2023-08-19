@@ -52,8 +52,11 @@ Target language for learning
 
 <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=ReactNative&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 
 </div>
