@@ -2,7 +2,7 @@
 
   [![Tistory](http://img.shields.io/badge/Tistory-FE5E4D?style=flat-square&logo=Tistory&link=https://korea-dev-liam.tistory.com/)](https://korea-dev-liam.tistory.com/)
 
-<br/><br/>
+<br/>
 
 :wave: Welcome everyone! :wave:
 
