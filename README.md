@@ -68,9 +68,10 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 
-</div>
-
-
 <br/><br/><br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Android-Liam)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
