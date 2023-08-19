@@ -14,7 +14,7 @@ I will continue to study and develop to become a good Android developer!
 
 Have a happy day everyone!
 
-<br/><br/>
+<br/>
   
 :dizzy:  Skills  :dizzy:
 
@@ -30,7 +30,7 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
