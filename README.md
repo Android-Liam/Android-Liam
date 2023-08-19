@@ -1,6 +1,6 @@
 
 
-Welcome everyone!
+:wave: Welcome everyone! :wave:
 
 I am a person who studies hard to become an Android developer!
 
