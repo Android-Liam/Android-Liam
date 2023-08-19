@@ -30,7 +30,7 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
