@@ -55,6 +55,8 @@ Platforms & Languages
 
 <br/>
 
+<img src="https://img.shields.io/badge/Java-294A64?style=flat-square&logo=Java&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Flutter-02569b?style=flat-square&logo=Flutter&logoColor=white"/>
