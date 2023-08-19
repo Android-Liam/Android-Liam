@@ -6,12 +6,10 @@
 
 :wave: Welcome everyone! :wave:
 
-I am a person who studies hard to become an Android developer!
-
-I'm studying Kotlin, and I'm studying Android development through it!
-
-I will continue to study and develop to become a good Android developer!
-
+I'm a beginner who has embarked on a journey to become an Android developer. 
+<br/>
+I know I have a long way to go, but my goal is to become a senior developer capable of developing for both Android and iOS platforms.
+<br/>
 Have a happy day everyone!
 
 <br/>
