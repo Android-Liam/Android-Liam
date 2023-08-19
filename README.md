@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
  <div align=center>
 	
-[![Tistory](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://zzsza.github.io/)]
+[![Tistory](http://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&link=https://korea-dev-liam.tistory.com/)](https://korea-dev-liam.tistory.com/)
 	
   </div>
