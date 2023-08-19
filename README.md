@@ -30,7 +30,7 @@ Platforms & Languages
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-339933?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white"/>
 
