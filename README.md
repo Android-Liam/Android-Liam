@@ -72,7 +72,7 @@ Platforms & Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Android-Liam&theme=midnight-purple&show_icons=true)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Liam&layout=compact&theme=midnight-purple)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Android-Liam&layout=compact&theme=midnight-purple"/>
 
 </div>
 
